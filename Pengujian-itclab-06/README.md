@@ -1,0 +1,6 @@
+# Pengujian-itclab-06
+Hari ini, Jumat 20 Desember 2024 pukul 14.52, saya mencoba untuk melakukan pengujian pengujian itclab 6 dengan mikrotik dan laptop saya. Saya mencoba untuk mendownload file itclab-06 dari github bapak. Langkah pertama yang saya lakukan adalah running file arduino di IDE Arduino untuk mengupload  ke mikrotik. Setelah itu, saya mencoba running file itclab.py dan berhasil. Disaat ingin running file ipynb mengalami beberapa masalah. Percobaan pertama saya running di vscode dan muncul error "_ARRAY_API not found"  dan "numpy.core.multiarray failed to import". Percobaan kedua, saya upload semua file ke google colab. Pada percobaan ini, running python sangatlah mudah, tetapi ketika ingin mencoba running ipynb, wajib mengisi port dari komputer. Setelah saya isi, tetap saja menampilkan error. Padahal port tersebut sudah sesuai  dengan port yang berada di Arduino. Error tersebut menampilkan "Could not open port COM7". Akhirnya pengujian ini gagal. Respon dari mikrotik hanya menyala warna merah
+
+Berikut merupakan video dari pengujian tersebut
+
+https://drive.google.com/file/d/1nEFciTHPpiS8BpPVv3T1pH3zO06fRkuF/view?usp=sharing

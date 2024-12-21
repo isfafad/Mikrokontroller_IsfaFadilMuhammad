@@ -1,0 +1,6 @@
+# Pengujian-itclab-08
+Hari ini, Jumat 20 Desember 2024 pukul 16.05, saya mencoba untuk melakukan pengujian pengujian itclab-08 dengan mikrotik dan laptop saya. Saya mencoba untuk mendownload file itclab-08 dari github bapak. Langkah pertama yang saya lakukan adalah running file arduino di IDE Arduino untuk mengupload ke mikrotik. Setelah itu, saya mencoba membuka aplikasi  IoT Mqtt Panel di handphone. Hal yang pertama saya lakukan ialah membuat sebuah setup connection dengan mengisi connection name, port dll. Lalu membuat panel line graph dengan mengisi panel name, topic for graph 1, dll. Setelah itu membuat panel switch dengan mengisi panel name, topic, payload on, payload off, dll sebanyak dua kali. Terakhir membuat panel gauge dengan mengisi panel name, topic, payload min, payload max. Kesimpulannya aplikasi tidak tersambung dengan mikrotik, karena tidak ada tutorial detail mengenai pengisian di atas. Gambar yang berada di buku juga kurang detail untuk mengisi panel² yang dibutuhkan. Respon Dari mikrotik hanya menyala warna merah.
+
+Berikut merupakan video dari pengujian tersebut
+
+https://drive.google.com/file/d/1nO8O1cqZqUF3eyHCFBvnm0_Hjoao-INZ/view?usp=sharing
